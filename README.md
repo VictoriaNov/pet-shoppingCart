@@ -5,6 +5,9 @@ I used a free open API for dummy data to the items in the shop. React-Query hook
 
 Styled Components are used in combination with Material UI to customize the styles.
 
+# Technologies Stack
+React, TypeScript, Styled Components, Material UI, React-Query, API:"https://fakestoreapi.com/products"
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
