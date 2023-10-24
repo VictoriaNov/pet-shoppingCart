@@ -1,12 +1,8 @@
 # ShoppingCart
-Shopping cart was built with Typescript, Material UI, Styled Components and React-Query.
-
-I used a free open API for dummy data to the items in the shop. React-Query hooks is used for fetching the data from the API. 
-
-Styled Components are used in combination with Material UI to customize the styles.
+Shopping cart for an online shopping store.
 
 # Technologies Stack
-React, TypeScript, Styled Components, Material UI, React-Query, API:"https://fakestoreapi.com/products"
+React, TypeScript, Styled Components, Material UI, React-Query, shopping items API:"https://fakestoreapi.com/products"
 
 # Getting Started with Create React App
 
